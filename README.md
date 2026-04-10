@@ -19,7 +19,7 @@ To begin working with the assets project, follow these steps:
 1. Clone the repository to your local machine:
 
    `
-   git clone https://github.com/dev1virtuoso/assets.git
+   git clone https://github.com/dev1virtuoso/Assets.git
    `
 
 2. Install any necessary dependencies as outlined in the project's documentation.
